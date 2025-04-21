@@ -10,4 +10,4 @@ useCase3
 التصريح بحادث
 
 ---------------------------------------
-digrame deployement -digramme context
+class  -digramme 
